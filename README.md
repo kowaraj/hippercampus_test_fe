@@ -1,4 +1,6 @@
-# Test React client for Express API
+For the test (React) Express (backend), see: https://github.com/kowaraj/hippercampus_test_be
+
+# Test React client (frontend) for Express API
 
 ## Create
 
